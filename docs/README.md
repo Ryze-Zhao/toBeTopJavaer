@@ -1,4 +1,4 @@
-## To Be Top Javaer  -  Java工程师成神之路
+## To Be Top Javaer  -  Java工程师
 
 ![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
 
@@ -17,7 +17,7 @@
 
 ### 关于作者
 
-Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘金优秀作者，《程序员的三门课》联合作者，《Java工程师成神之路》系列文章作者；热衷于分享计算机编程相关技术，博文全网阅读量上千万。
+Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘金优秀作者，《程序员的三门课》联合作者，《Java工程师》系列文章作者；热衷于分享计算机编程相关技术，博文全网阅读量上千万。
 
 
 ### 开源协议
@@ -49,6 +49,6 @@ Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) 
 
 ![](contact/wechat-hollis.jpg)
 
-如果获取《Java工程师成神之路最新版思维导图》，请在公众号后台回复："成神导图"
+如果获取《Java工程师最新版思维导图》，请在公众号后台回复："成神导图"
 
 ### <a href="#/menu?id=目录">开始阅读</a></p></div><div class="mask"></div></section>
